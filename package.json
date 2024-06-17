@@ -1,0 +1,19 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "Resto project_1",
+  "main": "app.js",
+  "scripts": {
+    "format": "npx prettier --write ."
+  },
+  "keywords": [],
+  "author": "Olga",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "prettier": "^3.3.2"
+  }
+}
+
+
